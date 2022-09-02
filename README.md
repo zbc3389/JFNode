@@ -1,6 +1,6 @@
 # JFNode(飓风节点)
 - 这是一个去中心化服务器
-- 下载最新节点 https://ipfs.io/ipfs/QmW56AG8QGor5w2dTX49NF2PtkZf1ZFtxGPpGqdM12hsas?filename=JFNode_1.0.0.4.zip
+- 下载最新节点 https://ipfs.io/ipfs/QmbB5VAFkWikJ7dhxAuWeU2odsEsitN5gukDKXGNEWRKDD?filename=JFNode_1.0.0.5.zip
 - 飓风节点(中国国产的去中心化节点)
 - 供中国大部分 .Net 程序员开发使用的节点。
 - 无需安装Visual Stidio等编译器，上百万个在线编译节点(最终)帮你快速免费的编译C#代码，用手机或Pad的浏览器就能开发你的App。
@@ -31,7 +31,7 @@
 
 ## 搭建方法
 - 1.下载最新节点 
-    https://ipfs.io/ipfs/QmW56AG8QGor5w2dTX49NF2PtkZf1ZFtxGPpGqdM12hsas?filename=JFNode_1.0.0.4.zip
+    https://ipfs.io/ipfs/QmbB5VAFkWikJ7dhxAuWeU2odsEsitN5gukDKXGNEWRKDD?filename=JFNode_1.0.0.5.zip
     下载完毕后，解压，进入中本聪节点文件夹。
 - 2.配置 内网穿透配置.txt ，使用你的外网IP或外网域名，必须是能指向你打开节点的服务器。
 - 3.开通8001端口。
