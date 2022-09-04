@@ -13,8 +13,8 @@
 - 每个人都将成为维护节点维护中本聪节点生态的一名重要的不可缺少的成员。
 - 有违规的，尽快向客服举报，会尽快处理。
 - 官方永远不会建立社群，只通过公告和客服与节点成员们进行交流。
-- 注册充值app： https://ipfs.io/ipfs/QmWS9q9ShHSardvBgoPK21rwJYhmj6A3QbvwG5T1LjrUdT?filename=节点充值.apk 翻墙使用。
-- 交换中心app： https://ipfs.io/ipfs/QmeiXozUCHXCd5BEoY1Ah7smBfMzHoWfMxtGBWptxP4421?filename=交换中心.apk 翻墙使用。
+- 注册充值app： https://ipfs.io/ipfs/QmesubNtJma94VJopG27rHuSeyywDmjC2G4BeDxPVKy8Qm?filename=节点充值.apk 翻墙使用。
+- 交换中心app： https://ipfs.io/ipfs/QmXAtroD6HedMyp7kWeVR7rRpgr1UXTsA4uCGhvu11XNcx?filename=交换中心.apk 翻墙使用。
 - 翻墙app(黑洞加速器)： https://ipfs.io/ipfs/Qmf1yb88kX81gTe5U1noXDLqusNsEpjUp2xBeSumjpJTHn?filename=黑洞加速器.apk  
 
 ## 用途是什么？
