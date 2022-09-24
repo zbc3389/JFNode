@@ -13,6 +13,7 @@
 - 每个人都将成为维护节点维护中本聪节点生态的一名重要的不可缺少的成员。
 - 有违规的，尽快向客服举报，会尽快处理。
 - 官方永远不会建立社群，只通过公告和客服与节点成员们进行交流。
+- 有任何意见请和节点内的离线客服反馈或发邮件到 zbc3389@outlook.com ，看到一定会回复帮你解决问题。
 - 注册充值app： https://ipfs.io/ipfs/QmTdtAHyBGhrd2gLDHRWRn2Bqzbu7PAGiipaBfKYEB92jk?filename=节点充值.apk 翻墙使用。
 - 交换中心app： https://ipfs.io/ipfs/QmbdvfoT6Z9ewbxwxjKFz4vUZHBgzm1DuW86qz3gHBZrvB?filename=交换中心.apk 翻墙使用。
 - 翻墙app(黑洞加速器)： https://ipfs.io/ipfs/Qmf1yb88kX81gTe5U1noXDLqusNsEpjUp2xBeSumjpJTHn?filename=黑洞加速器.apk  
